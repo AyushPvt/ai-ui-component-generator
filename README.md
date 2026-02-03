@@ -1,26 +1,32 @@
 # AI UI Component Generator
 
-## Overview
-A web application that generates reusable UI components using AI based on user prompts.
+An AI-powered web application that generates reusable UI components based on natural language prompts.
 
-## Tech Stack
+## 🚀 Overview
+This project helps developers quickly generate frontend UI components using AI. Users provide a text prompt, and the application generates corresponding UI code with a live preview.
+
+## 🛠 Tech Stack
 - React
 - Vite
 - Tailwind CSS
 - Gemini API
+- JavaScript
 
-## Features
-- Prompt-based UI generation
-- Live component preview
-- Responsive layout
-- Error handling
+## ✨ Features
+- AI-based UI component generation
+- Live preview of generated components
+- Responsive and clean UI
+- Prompt validation and error handling
+- Loading states during AI response
 
-## My Contributions
-- Refactored API integration
-- Improved UI responsiveness
-- Added input validation
+## 👨‍💻 My Contributions
+- Integrated Gemini API for dynamic UI generation
+- Improved UI responsiveness and layout
+- Added input validation and loading states
+- Refactored component structure for better readability
 
-## Setup Instructions
-1. npm install
-2. Add .env file with API key
-3. npm run dev
+## ⚙️ Setup Instructions
+1. Clone the repository  
+2. Install dependencies  
+   ```bash
+   npm install
